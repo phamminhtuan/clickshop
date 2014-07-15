@@ -1,0 +1,4 @@
+D:\Learn\clickshop\Source\Clickshop.Entity\bin\Debug\Clickshop.Entity.dll
+D:\Learn\clickshop\Source\Clickshop.Entity\bin\Debug\Clickshop.Entity.pdb
+D:\Learn\clickshop\Source\Clickshop.Entity\obj\Debug\Clickshop.Entity.dll
+D:\Learn\clickshop\Source\Clickshop.Entity\obj\Debug\Clickshop.Entity.pdb

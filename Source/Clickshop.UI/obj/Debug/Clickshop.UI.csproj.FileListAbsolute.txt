@@ -7,3 +7,6 @@ D:\googlecode\clickshop\Source\Clickshop.UI\bin\Debug\Clickshop.UI.exe
 D:\googlecode\clickshop\Source\Clickshop.UI\bin\Debug\Clickshop.UI.pdb
 D:\googlecode\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.exe
 D:\googlecode\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.pdb
+D:\Learn\clickshop\Source\Clickshop.UI\bin\Debug\Clickshop.UI.exe.config
+D:\Learn\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.exe
+D:\Learn\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.pdb

@@ -1,0 +1,12 @@
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\Clickshop.Data.dll
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\Clickshop.Data.pdb
+D:\Learn\clickshop\Source\Clickshop.Data\obj\Debug\Clickshop.Data.csprojResolveAssemblyReference.cache
+D:\Learn\clickshop\Source\Clickshop.Data\obj\Debug\Clickshop.Data.dll
+D:\Learn\clickshop\Source\Clickshop.Data\obj\Debug\Clickshop.Data.pdb
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\Clickshop.Data.dll.config
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\Clickshop.Entity.dll
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\EntityFramework.dll
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\Clickshop.Entity.pdb
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\EntityFramework.xml
+D:\Learn\clickshop\Source\Clickshop.Data\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+D:\Learn\clickshop\Source\Clickshop.Service\bin\Debug\Clickshop.Service.dll
+D:\Learn\clickshop\Source\Clickshop.Service\bin\Debug\Clickshop.Service.pdb
+D:\Learn\clickshop\Source\Clickshop.Service\obj\Debug\Clickshop.Service.csprojResolveAssemblyReference.cache
+D:\Learn\clickshop\Source\Clickshop.Service\obj\Debug\Clickshop.Service.dll
+D:\Learn\clickshop\Source\Clickshop.Service\obj\Debug\Clickshop.Service.pdb
