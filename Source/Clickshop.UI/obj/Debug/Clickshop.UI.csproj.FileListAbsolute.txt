@@ -1,0 +1,9 @@
+C:\Users\MinhTuan\Documents\GitHub\clickshop\Source\Clickshop.UI\bin\Debug\Clickshop.UI.exe.config
+D:\googlecode\clickshop\Source\Clickshop.UI\bin\Debug\Clickshop.UI.exe.config
+D:\googlecode\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.csprojResolveAssemblyReference.cache
+D:\googlecode\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.Properties.Resources.resources
+D:\googlecode\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.csproj.GenerateResource.Cache
+D:\googlecode\clickshop\Source\Clickshop.UI\bin\Debug\Clickshop.UI.exe
+D:\googlecode\clickshop\Source\Clickshop.UI\bin\Debug\Clickshop.UI.pdb
+D:\googlecode\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.exe
+D:\googlecode\clickshop\Source\Clickshop.UI\obj\Debug\Clickshop.UI.pdb
